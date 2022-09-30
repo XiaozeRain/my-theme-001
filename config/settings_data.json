@@ -121,6 +121,20 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "31ae1d6c-3171-4794-aeb1-38f79c06c209": {
+            "type": "announcement",
+            "settings": {
+              "text": "Welcome to our store",
+              "text_alignment": "center",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "31ae1d6c-3171-4794-aeb1-38f79c06c209"
+        ],
         "settings": {
         }
       },
