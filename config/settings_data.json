@@ -215,9 +215,15 @@
 
     ],
     "blocks": {
+      "4366623015924076729": {
+        "type": "shopify:\/\/apps\/my-app-001\/blocks\/zz-embed\/14fdf144-1797-4c39-ae67-f13bbd5ddd88",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "5332560589641030287": {
         "type": "shopify:\/\/apps\/my-app-001\/blocks\/app-embed\/14fdf144-1797-4c39-ae67-f13bbd5ddd88",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }

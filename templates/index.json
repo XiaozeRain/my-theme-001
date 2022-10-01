@@ -44,10 +44,27 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "166462877748b24f59": {
+      "type": "apps",
+      "blocks": {
+        "08b43d85-a6e6-46c3-a2f4-a4cd8a05d00f": {
+          "type": "shopify:\/\/apps\/my-app-001\/blocks\/zz-block\/14fdf144-1797-4c39-ae67-f13bbd5ddd88",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "08b43d85-a6e6-46c3-a2f4-a4cd8a05d00f"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "featured_collection",
-    "1664544974095a7aa0"
+    "1664544974095a7aa0",
+    "166462877748b24f59"
   ]
 }
