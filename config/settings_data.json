@@ -232,7 +232,7 @@
         "disabled": false,
         "settings": {
           "disable-rk-styles": false,
-          "add-glide-init-timeouts": false,
+          "add-glide-init-timeouts": true,
           "enable-design-mode-preview": false
         }
       }
