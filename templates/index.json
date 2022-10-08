@@ -29,18 +29,6 @@
     },
     "1664544974095a7aa0": {
       "type": "apps",
-      "blocks": {
-        "83a692bb-ce01-4020-831b-f4443b03a7a6": {
-          "type": "shopify:\/\/apps\/my-app-001\/blocks\/app-block\/14fdf144-1797-4c39-ae67-f13bbd5ddd88",
-          "settings": {
-            "heading": "Cute Puppy Gallery",
-            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
-          }
-        }
-      },
-      "block_order": [
-        "83a692bb-ce01-4020-831b-f4443b03a7a6"
-      ],
       "settings": {
         "include_margins": true
       }
