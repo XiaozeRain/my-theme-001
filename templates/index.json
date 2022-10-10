@@ -2,18 +2,6 @@
   "sections": {
     "1664544974095a7aa0": {
       "type": "apps",
-      "blocks": {
-        "bcfc76e9-e2ab-429f-a461-67d68d2bc7cf": {
-          "type": "shopify:\/\/apps\/my-app-001\/blocks\/app-block\/14fdf144-1797-4c39-ae67-f13bbd5ddd88",
-          "settings": {
-            "heading": "Cute Puppy Gallery",
-            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
-          }
-        }
-      },
-      "block_order": [
-        "bcfc76e9-e2ab-429f-a461-67d68d2bc7cf"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -25,7 +13,7 @@
           "type": "shopify:\/\/apps\/personalized-recommendations\/blocks\/app-block\/6e79d991-1504-45bb-88e3-1fb55a4f26cd",
           "settings": {
             "widget-id": "214150",
-            "padding-top": "",
+            "padding-top": "20%",
             "padding-bottom": "",
             "class-names": "",
             "custom-css": "",
@@ -41,10 +29,30 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1665378263be7cb183": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "8f838b13-7c0e-47c9-990f-5fee7c826766": {
+          "type": "shopify:\/\/apps\/my-app-02\/blocks\/app-block\/11ddbdaa-5fd8-41d3-8395-9bcb971a4394",
+          "settings": {
+            "heading": "Cute Puppy Gallery",
+            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
+          }
+        }
+      },
+      "block_order": [
+        "8f838b13-7c0e-47c9-990f-5fee7c826766"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "1664544974095a7aa0",
-    "166519152826a4b3a7"
+    "166519152826a4b3a7",
+    "1665378263be7cb183"
   ]
 }

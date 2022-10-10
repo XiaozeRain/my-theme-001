@@ -215,8 +215,8 @@
 
     ],
     "blocks": {
-      "4366623015924076729": {
-        "type": "shopify:\/\/apps\/my-app-001\/blocks\/zz-embed\/14fdf144-1797-4c39-ae67-f13bbd5ddd88",
+      "9583840241842619168": {
+        "type": "shopify:\/\/apps\/my-app-02\/blocks\/app-embed\/11ddbdaa-5fd8-41d3-8395-9bcb971a4394",
         "disabled": true,
         "settings": {
         }
@@ -228,12 +228,6 @@
           "disable-rk-styles": false,
           "add-glide-init-timeouts": true,
           "enable-design-mode-preview": false
-        }
-      },
-      "5332560589641030287": {
-        "type": "shopify:\/\/apps\/my-app-001\/blocks\/app-embed\/14fdf144-1797-4c39-ae67-f13bbd5ddd88",
-        "disabled": false,
-        "settings": {
         }
       }
     }
