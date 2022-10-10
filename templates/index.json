@@ -47,11 +47,18 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1665395246c505cdd1": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "1664544974095a7aa0",
     "166519152826a4b3a7",
-    "1665378263be7cb183"
+    "1665378263be7cb183",
+    "1665395246c505cdd1"
   ]
 }

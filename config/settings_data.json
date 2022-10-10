@@ -221,9 +221,15 @@
         "settings": {
         }
       },
+      "9615735274497416897": {
+        "type": "shopify:\/\/apps\/my-app-02\/blocks\/suggest-embed\/11ddbdaa-5fd8-41d3-8395-9bcb971a4394",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "13182238052301688732": {
         "type": "shopify:\/\/apps\/personalized-recommendations\/blocks\/app-embed\/6e79d991-1504-45bb-88e3-1fb55a4f26cd",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "disable-rk-styles": false,
           "add-glide-init-timeouts": true,
