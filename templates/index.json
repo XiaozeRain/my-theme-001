@@ -32,6 +32,18 @@
     },
     "1665378263be7cb183": {
       "type": "apps",
+      "blocks": {
+        "1a0fecd2-5659-4d2e-9f8f-34871f0af5d4": {
+          "type": "shopify:\/\/apps\/my-app-02\/blocks\/suggest-block\/11ddbdaa-5fd8-41d3-8395-9bcb971a4394",
+          "settings": {
+            "heading": "推荐商品block",
+            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
+          }
+        }
+      },
+      "block_order": [
+        "1a0fecd2-5659-4d2e-9f8f-34871f0af5d4"
+      ],
       "settings": {
         "include_margins": true
       }
