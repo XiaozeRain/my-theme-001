@@ -27,10 +27,35 @@
       ],
       "settings": {
       }
+    },
+    "166537974970e4d208": {
+      "type": "apps",
+      "blocks": {
+        "99be78af-5ae1-468a-83ce-e10bead277b0": {
+          "type": "shopify:\/\/apps\/personalized-recommendations\/blocks\/app-block\/6e79d991-1504-45bb-88e3-1fb55a4f26cd",
+          "settings": {
+            "widget-id": "214150",
+            "padding-top": "",
+            "padding-bottom": "",
+            "class-names": "",
+            "custom-css": "",
+            "add-loader": false,
+            "min-height": "300px",
+            "custom-loader": ""
+          }
+        }
+      },
+      "block_order": [
+        "99be78af-5ae1-468a-83ce-e10bead277b0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "cart-items",
-    "cart-footer"
+    "cart-footer",
+    "166537974970e4d208"
   ]
 }
